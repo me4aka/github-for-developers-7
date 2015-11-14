@@ -1,4 +1,5 @@
-- Pavel Boev
-- 26
-- coding
-- favorite color: blue
+ **Name: ** Pavel Boev
+ **Age: ** 26
+ **hobby: ** coding
+ **Color: ** blue
+ **City: ** Berlin
