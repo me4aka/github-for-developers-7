@@ -1,3 +1,4 @@
 - Pavel Boev
 - 26
 - coding
+- favorite color: blue
